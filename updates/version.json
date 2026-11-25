@@ -1,0 +1,8 @@
+{
+  "version": "1.1.0",
+  "changelog": [
+    "Pase de Batalla con paquetes y colores de icono",
+    "Sistema de actualizaciones desde el menú",
+    "Corrección de la posición de las explosiones del Ángel Guardián"
+  ]
+}
