@@ -1,8 +1,7 @@
 {
-  "version": "1.1.0",
+  "version": "5.6.1",
   "changelog": [
-    "Pase de Batalla con paquetes y colores de icono",
-    "Sistema de actualizaciones desde el menú",
-    "Corrección de la posición de las explosiones del Ángel Guardián"
-  ]
+    "Versión de prueba 5.6.1"
+  ],
+  "download_url": "https://github.com/VotiveRoom/OperacionVIP/releases/download/v5.6.1-test/operacion_vip_5.6.1.zip"
 }
